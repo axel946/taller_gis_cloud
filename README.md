@@ -208,16 +208,51 @@ https://gkudos.carto.com/u/kudosg/builder/f7f21768-c27a-40ad-88d8-38ab19c6af12/e
 
 ![municipios](/images/carto_primero.png)
 
+
+
 * Publique un artículo en su blog de wordpress utilizando el mapa creado con carto
 (Nota: Adicione el texto , títulos, etiquetas, etc que considere necesarios para contextualizar el ejercicio )
 
 ![municipios](/images/wordpress.png)
 
-* Resultado  ps://neogeografia.wordpress.com/2018/03/02/taller-de-sig-utilizando-herramientas-en-la-nube/
+
+
+* Resultado  
+
+https://neogeografia.wordpress.com/2018/03/02/taller-de-sig-utilizando-herramientas-en-la-nube/
 
 ![municipios](/images/wordpress_resultado.png)
 
 
+### Ejercicio 2: Crear dashboard interactivo para el análisis de  tweets
+
+* Cree un nuevo mapa en carto a partir de los datos de los tweets
+
+* Adicione widget de línea de tiempo utilizando el atributo created  
+	* Cambie la agregación de datos (buckets) a horas
+	* Explore la línea de tiempo seleccionando un rango específico de tiempo (Ejm: 10 horas)
+	* cambie el color
+* Adicione widget de formula de tipo  "feature count" para contar los datos que salen en pantalla
+	* personalice el nombre, prefijo, sufijo y descripción según como considere necesario
+* Adicione widget de categoría con e atributo "source" (aplicación desde la cual se creó el tweet )
+* Repita el proceso de la categoría para los atributos lang, screen_name y place name
+* cambie los colores del los puntos del tweet según como considere necesario
+* personalice el pop-up de la capa de tweets    
+		* click: todos los atributos
+		* hover: nombre del usuario  y el texto  del tweet
+* adicione la capa de departamentos, ubíquela por debajo de los tweets y cambie la simbología
+* cambie la privacidad del mapa a "only accesible with link"
+* publique el mapa
+* explore los datos en el dashboard publicado haciendo diferentes combinaciones
+* cree una nueva entrada en su blog de wordpress incluyendo el dashboard creado e incluya sus opiniones sobre el proceso.
+	* Le pareciò fácil? difícil?
+	* que particulares percibió de los datos luego del análisis interactivo?  
+	* este tipo de dashboards serían útiles en su trabajo o profesión? ejemplos
+
+Resultado:
+https://gkudos.carto.com/u/kudosg/builder/b4fd7e58-379a-4101-9cd9-bad1111c6fc4/embed
+
+![municipios](/images/carto_dashboard.png)
 
 
 ## Spatial SQL
