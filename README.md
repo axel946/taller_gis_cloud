@@ -7,6 +7,7 @@ Carpeta /datos
 **Municipios y departamentos de Colombia**
 Fuente:  Geoportal Dane https://geoportal.dane.gov.co/v2/?page=elementoDescargaMGN
 * Departamentos : MGN_ADM_MPIO_POLITICO.zip
+* Municipios: mgn_adm_mpio_politico_simplified.geojson.zip
 * Documento técnico : FICHA_TECNICA_MGN_2016.pdf
 
 **Tweets**
