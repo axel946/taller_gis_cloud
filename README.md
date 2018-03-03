@@ -178,6 +178,40 @@ Ejemplo de la información contenida en el tweet:
 ![municipios](/images/carto_how.png)
 
 
+### Ejercicio 1: Mapa Simple de tweets
+
+* Crear un mapa con los datos de los tweets
+
+* Cambiar el mapa base: Comparar las siguientes opciones
+	* Voyager
+	* Positron
+	* Dark Matter
+	* Stamen Toner
+	* Here Day
+	* Nasa
+
+* Adicionar el estilo que creó en mapbox como mapa base de carto
+
+* cambiar el color, transparencia , tamaño y borde de los puntos de los tweets
+
+* personalice el "pop-up" y la leyenda
+
+* habilite el selector de Capa
+
+* cambie la privacidad del mapa a "only accesible with link"
+
+* publique el mapa
+
+* Resultado
+
+https://gkudos.carto.com/u/kudosg/builder/f7f21768-c27a-40ad-88d8-38ab19c6af12/embed
+
+![municipios](/images/carto_primero.png)
+
+
+
+
+
 
 ## Spatial SQL
 
