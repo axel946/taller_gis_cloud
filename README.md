@@ -43,6 +43,7 @@ http://www.postgis.org/docs/reference.html
 ST_Simplify:  http://www.postgis.org/docs/ST_Simplify.html  
 
 Datos sin Simplificar:
+
 ![municipios](/images/municipios_original.png)
 
 Simplificación de Geometrías:
@@ -51,10 +52,13 @@ Simplificación de Geometrías:
 		FROM mgn_adm_mpio_politico
 
 Datos Simplificados:
+
 ![municipios](/images/municipios_simplicada.png)
 
 Datos Simplificados (Detalle):
+
 ![municipios](/images/municipios_simplificada_Detalle.png)
 
 Comparación de Tamaños:
+
 ![municipios](/images/municipios_comparacion.png)
