@@ -44,11 +44,11 @@ https://www.mapbox.com/cartogram/#11.05/4.622/-74.1774
 
 Imagen de Ejemplo:
 
-(https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+![_Starry_Night_](https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
 Resultado:
 
-(/images/cartogram.png)
+![cartogram](/images/cartogram.png)
 
 ## Spatial SQL
 
