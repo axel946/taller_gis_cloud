@@ -42,13 +42,14 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 
 https://www.mapbox.com/cartogram/#11.05/4.622/-74.1774
 
-Imagen de Ejemplo:
+**Imagen de Ejemplo:**
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/300px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 
 Resultado:
 
 ![cartogram](/images/cartogram.png)
+
 
 Utilizar Estilo
 
@@ -59,18 +60,18 @@ Ejemplo:
 
 https://api.mapbox.com/styles/v1/gkudos/cjeaqkalvk2i82slc4rrnjri8.html?fresh=true&title=true&access_token=pk.eyJ1IjoiZ2t1ZG9zIiwiYSI6IkJ6Snd0WVUifQ.KkZKDrLUGoAuDv8CfLg4xg#13.0/40.720538/-73.997072/0
 
-Ejemplo de uso con mapbox gl:
+**Ejemplo de uso con mapbox gl:**
 
 https://bl.ocks.org/dersteppenwolf/cd1c72c482ed72cfcf8156ad65ef3e26
 
 
-Ejemplo de uso con leaflet:
+**Ejemplo de uso con leaflet:**
 
 https://bl.ocks.org/dersteppenwolf/e87dccd027e28208ca955047b08b2537
 
 
 
-Ejemplo de uso en QGIS con WMTS
+**Ejemplo de uso en QGIS con WMTS**
 
 
 ![cartogram](/images/mapbox_qgis0.png)
@@ -91,6 +92,31 @@ Ejemplo de uso en QGIS con WMTS
 ![cartogram](/images/mapbox_custom2.png)
 
 
+### Mapa de coropletas (choropleth)  con Mapbox studio
+
+De wikipedia:
+
+	Un mapa coroplético, mapa coropleto o mapa de coropletas, es un mapa temático en el que las regiones
+	se colorean de un motivo que muestra una medida estadística, como puede ser la densidad de población
+	o el ingreso por habitante. Este tipo de mapa facilita la comparación de una medida estadística
+	de una región con la de otra o muestra la variabilidad de esta para una región dada.
+
+**Ejemplo:**
+
+![municipios](http://gisgeography.com/wp-content/uploads/2016/07/All-Classes-Map-678x304.png)
+
+
+
+**Referencia:**
+
+* Sugerencias de colores para mapas : "Colorbrewer" http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+* Choropleth Maps – A Guide to Data Classification http://gisgeography.com/choropleth-maps-data-classification/
+
+
+**Pasos**
+
+
+
 
 ## Spatial SQL
 
@@ -101,7 +127,8 @@ Ejemplo de uso en QGIS con WMTS
 		includes support for GiST-based R-Tree spatial indexes, and functions for analysis
 		and processing of GIS objects.
 
-Referencia de operaciones en postgis:
+**Referencia de operaciones en postgis:**
+
 http://www.postgis.org/docs/reference.html
 
 
