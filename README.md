@@ -44,7 +44,7 @@ https://www.mapbox.com/cartogram/#11.05/4.622/-74.1774
 
 Imagen de Ejemplo:
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jp)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/300px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
 
 Resultado:
 
