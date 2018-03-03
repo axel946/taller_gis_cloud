@@ -1,12 +1,12 @@
 # Taller de publicación de mapas utilizando herramientas en la nube
 
-Instructor: Juan Carlos Méndez
-Fecha: 2018-03-03
-Materia: Geoservicios y Geoportales
-Maestría En Gestión De La Información Y Tecnologías Geoespaciales
-Universidad Sergio Arboleda / IGAC - CIAF
+* Instructor: Juan Carlos Méndez
+* Fecha: 2018-03-03
+* Materia: Geoservicios y Geoportales
+* Maestría En Gestión De La Información Y Tecnologías Geoespaciales
+* Universidad Sergio Arboleda / IGAC - CIAF
 
- 
+
 ## Fuentes de datos
 
 Carpeta
