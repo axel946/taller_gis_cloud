@@ -16,7 +16,7 @@ Fuente:  Geoportal Dane https://geoportal.dane.gov.co/v2/?page=elementoDescargaM
 
 **Tweets**
 
-* Tweets Georreferenciados - Colombia entre :   tweets_2018.zip
+* Tweets Georreferenciados en Colombia recopilados del  19 al 28 de febrero de 2018 :   tweets_2018.zip
 
 **Otros**
 
@@ -31,6 +31,10 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Make a choropleth map, Part 1: create a style  https://www.mapbox.com/help/choropleth-studio-gl-pt-1/
 * Carto
 	* Carto documentation https://carto.com/docs/
+	* Carto Guides https://carto.com/learn/guides/
+	* Carto Tips https://carto.com/docs/tips-and-tricks/
+
+
 
 
 ## Mapbox
@@ -123,8 +127,54 @@ Resultado
 ![municipios](/images/choropleth-1520047366401.png)
 
 
+### Otros Tutoriales
+
+*  https://www.mapbox.com/help/tutorials/
+
+
 ## Carto
 
+**Datos:**
+
+* Tweets Georreferenciados en Colombia recopilados del  19 al 28 de febrero de 2018 :   tweets_2018.zip
+
+![municipios](/images/tweets.png)
+
+
+Ejemplo de la información contenida en el tweet:
+
+	datos/tweet.geojson
+
+
+* Departamentos : MGN_ADM_MPIO_POLITICO.zip
+
+![municipios](/images/depto.png)
+
+* Municipios: mgn_adm_mpio_politico_simplified.geojson.zip
+
+![municipios](/images/muni.png)
+
+
+**Pasos**
+
+* Explorar la interfaz de carto
+
+** Carto Editor Workflow https://carto.com/docs/carto-editor/workflow/
+** Carto Dashboard https://carto.com/docs/carto-editor/dashboard/
+** Galería de mapas de ejemplo https://carto.com/gallery/
+
+
+
+* Cargar datos en Carto
+
+* Visualizar estructura de dataset
+
+![municipios](/images/depto_tabla.png)
+
+
+** Tip: Arquitectura de Carto **
+
+![municipios](/images/carto_architecture.png)
 
 
 
