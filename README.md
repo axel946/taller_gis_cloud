@@ -375,6 +375,8 @@ Comparación de Tamaños:
 
 ![municipios](/images/municipios_comparacion.png)
 
+## Tarea
 
+Consultar foro 
 
 ## Gracias
