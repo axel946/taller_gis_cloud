@@ -4,7 +4,7 @@
 
 Carpeta /datos
 
-**Municipios y departamentos de Colombia** 
+**Municipios y departamentos de Colombia**
 Fuente:  Geoportal Dane https://geoportal.dane.gov.co/v2/?page=elementoDescargaMGN
 * Departamentos : MGN_ADM_MPIO_POLITICO.zip
 * Documento técnico : FICHA_TECNICA_MGN_2016.pdf
@@ -26,3 +26,35 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Carto documentation https://carto.com/docs/
 
 
+## Spatial SQL
+
+### Postgis
+
+		PostGIS is an extension to the PostgreSQL object-relational database system which allows GIS (Geographic Information Systems) objects to be stored in the database. PostGIS includes support for GiST-based R-Tree spatial indexes, and functions for analysis and processing of GIS objects.
+
+Referencia de operaciones en postgis:
+http://www.postgis.org/docs/reference.html
+
+
+
+
+### Simplificación de Geometrías
+
+ST_Simplify:  http://www.postgis.org/docs/ST_Simplify.html  
+
+Datos sin Simplificar:
+![municipios](/images/municipios_original.png)
+
+Simplificación de Geometrías:
+
+		SELECT st_simplify(the_geom, 0.001), mpio_cnmbr, mpio_ccnct
+		FROM mgn_adm_mpio_politico
+
+Datos Simplificados:
+![municipios](/images/municipios_simplicada.png)
+
+Datos Simplificados (Detalle):
+![municipios](/images/municipios_simplificada_Detalle.png)
+
+Comparación de Tamaños:
+![municipios](/images/municipios_comparacion.png)
