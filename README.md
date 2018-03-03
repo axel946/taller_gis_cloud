@@ -158,10 +158,9 @@ Ejemplo de la información contenida en el tweet:
 **Pasos**
 
 * Explorar la interfaz de carto
-
-** Carto Editor Workflow https://carto.com/docs/carto-editor/workflow/
-** Carto Dashboard https://carto.com/docs/carto-editor/dashboard/
-** Galería de mapas de ejemplo https://carto.com/gallery/
+	* Carto Editor Workflow https://carto.com/docs/carto-editor/workflow/
+	* Carto Dashboard https://carto.com/docs/carto-editor/dashboard/
+	* Galería de mapas de ejemplo https://carto.com/gallery/
 
 
 
