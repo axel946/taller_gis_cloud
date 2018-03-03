@@ -6,6 +6,14 @@
 * Maestría En Gestión De La Información Y Tecnologías Geoespaciales
 * Universidad Sergio Arboleda / IGAC - CIAF
 
+## Prerrequisitos
+
+Tener cuenta en los siguientes servicios en la nube:
+
+* Mapbox
+* Carto
+* Wordpress
+* Github
 
 ## Fuentes de datos
 
@@ -377,6 +385,6 @@ Comparación de Tamaños:
 
 ## Tarea
 
-Consultar foro 
+Consultar foro
 
 ## Gracias
