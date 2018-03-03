@@ -314,13 +314,16 @@ http://www.postgis.org/docs/reference.html
 
 *  Cuantos municipios tiene antioquia?
 
+```sql
 		SELECT count(*) FROM mgn_adm_mpio_politico
 		where dpto_ccdgo = '05'
+```
 
 ![municipios](/images/sql.png)
 
 * Cuantos tweets se fueron creados con foursquare  en un radio de 2 km alrededor del centro comercial andino ?
 
+```sql
 		with b as (
 				select st_buffer( cdb_latlng(4.666742040, -74.05286452)::geography, 2000) as the_geom
 		)
@@ -328,6 +331,7 @@ http://www.postgis.org/docs/reference.html
 		from tweets_2018 as t , b
 		where st_intersects(t.the_geom, b.the_geom)
 		and t.source = 'foursquare'
+```
 
 Respuesta: 115
 
@@ -347,8 +351,10 @@ Datos sin Simplificar:
 
 Simplificación de Geometrías:
 
+```sql
 		SELECT st_simplify(the_geom, 0.001), mpio_cnmbr, mpio_ccnct
 		FROM mgn_adm_mpio_politico
+```
 
 Datos Simplificados:
 
