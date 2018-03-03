@@ -312,14 +312,29 @@ http://www.postgis.org/docs/reference.html
 
 ### Consultas utilizando SQL
 
-Cuantos municipios tiene antioquia?
+*  Cuantos municipios tiene antioquia?
 
-		SELECT count(*) FROM kudosg.mgn_adm_mpio_politico
+		SELECT count(*) FROM mgn_adm_mpio_politico
 		where dpto_ccdgo = '05'
 
 ![municipios](/images/sql.png)
 
+* Cuantos tweets se fueron creados con foursquare  en un radio de 2 km del centro comercial andino ?
 
+		with b as (
+				select st_buffer( cdb_latlng(4.666742040, -74.05286452)::geography, 2000) as the_geom
+		)
+		select count(t.*)
+		from tweets_2018 as t , b
+		where st_intersects(t.the_geom, b.the_geom)
+		and t.source = 'foursquare'
+
+Respuesta: 115
+
+Ejemplo mapa:
+https://gkudos.carto.com/u/kudosg/builder/2597eae1-1029-462d-80bd-ce3d3fba2538/embed
+
+![municipios](/images/filter_advanced.png)
 
 
 ### Simplificación de Geometrías
