@@ -319,7 +319,7 @@ http://www.postgis.org/docs/reference.html
 
 ![municipios](/images/sql.png)
 
-* Cuantos tweets se fueron creados con foursquare  en un radio de 2 km del centro comercial andino ?
+* Cuantos tweets se fueron creados con foursquare  en un radio de 2 km alrededor del centro comercial andino ?
 
 		with b as (
 				select st_buffer( cdb_latlng(4.666742040, -74.05286452)::geography, 2000) as the_geom
