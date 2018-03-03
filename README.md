@@ -33,6 +33,23 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Carto documentation https://carto.com/docs/
 
 
+## Mapbox
+
+
+### Cartogram
+
+	"instantly make a map from a photo."
+
+https://www.mapbox.com/cartogram/#11.05/4.622/-74.1774
+
+Imagen de Ejemplo:
+
+(https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+
+Resultado:
+
+(/images/cartogram.png)
+
 ## Spatial SQL
 
 ### Postgis
