@@ -171,7 +171,7 @@ Ejemplo de la información contenida en el tweet:
 ![municipios](/images/depto_tabla.png)
 
 
-** Tip: Arquitectura de Carto **
+**Tip: Arquitectura de Carto**
 
 ![municipios](/images/carto_architecture.png)
 
