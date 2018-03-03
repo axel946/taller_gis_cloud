@@ -208,7 +208,14 @@ https://gkudos.carto.com/u/kudosg/builder/f7f21768-c27a-40ad-88d8-38ab19c6af12/e
 
 ![municipios](/images/carto_primero.png)
 
+* Publique un artículo en su blog de wordpress utilizando el mapa creado con carto
+(Nota: Adicione el texto , títulos, etiquetas, etc que considere necesarios para contextualizar el ejercicio )
 
+![municipios](/images/wordpress.png)
+
+* Resultado  ps://neogeografia.wordpress.com/2018/03/02/taller-de-sig-utilizando-herramientas-en-la-nube/
+
+![municipios](/images/wordpress_resultado.png)
 
 
 
