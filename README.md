@@ -115,6 +115,18 @@ De wikipedia:
 
 **Pasos**
 
+* Datos: datos/stateData.geojson
+* Tutorial : "Make a choropleth map, Part 1: create a style" https://www.mapbox.com/help/choropleth-studio-gl-pt-1/
+
+Resultado
+
+![municipios](/images/choropleth-1520047366401.png)
+
+
+## Carto
+
+
+
 
 
 
