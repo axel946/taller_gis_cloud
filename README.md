@@ -255,7 +255,49 @@ https://gkudos.carto.com/u/kudosg/builder/b4fd7e58-379a-4101-9cd9-bad1111c6fc4/e
 ![municipios](/images/carto_dashboard.png)
 
 
-## Spatial SQL
+### Ejercicio 3: Agregaciones / Densidad  
+
+* Cree un nuevo mapa en carto a partir de los datos de los tweets y cambie la simbología agregando por cuadros o hexbins
+* cambie la simbología según como considere necesario
+* publique el mapa
+* resultado : https://gkudos.carto.com/u/kudosg/builder/63e02f53-fd37-43cd-a35a-74bcd00047d9/embed
+
+### Ejercicio 4: Mapa de coropletas (choropleth)
+
+* Cargue en carto el conjunto de datos stateData.geojson
+* cree un mapa a partir de esos datos
+* Simbolícelo por densidad y compare diferentes formas de clasificaciòn y rampas de color
+* Adicione las etiquetas utilizando el atributo name
+* explore la opción "cartocss" y revise el código generado por la herramienta
+* publique el mapa
+* resultado: https://gkudos.carto.com/u/kudosg/builder/ae9352da-4ad4-4941-9273-d04bf52ddda5/embed
+
+### Ejercicio 5: Análisis espacial básico
+
+* Cree  un nuevo mapa y adicione las capas de tweets y municipio
+* seleccione la capa de municipios.
+* Seleccione la opción de análisis :  "intersectar segunda capa"
+	* capa de intersección :  tweets
+	* medida: conteo
+* Simbolice los municipios como coropletas  a partir del conteo de tweets
+* adicione los widgets que considere necesarios para enriquecer la visualización
+* resultado https://gkudos.carto.com/u/kudosg/builder/ecdf1d43-7d19-4c60-9b61-c20683818a00/embed
+
+
+### Ejercicio 6: Enriquecer los datos con Análisis espacial
+
+* Cree  un nuevo mapa y adicione la capas de departamentos
+* Adicione el análisis de tipo "filter point in polygons" utilizando como filtering layer los tweets
+* Adicione widget de categoría por el atributo source_dpto_cnmbr
+* Adicine widget para conteo de datos a través del atributo source_cartodb_id
+* publique el mapa
+* pregunta: cuantos tweets hay en total entre antioquia y cundinarca
+* resultado https://gkudos.carto.com/u/kudosg/builder/13ae268b-4410-4396-bc0c-b31d473b9c55/embed
+
+
+
+
+## Carto y Spatial SQL
 
 ### Postgis
 
@@ -267,6 +309,15 @@ https://gkudos.carto.com/u/kudosg/builder/b4fd7e58-379a-4101-9cd9-bad1111c6fc4/e
 **Referencia de operaciones en postgis:**
 
 http://www.postgis.org/docs/reference.html
+
+### Consultas utilizando SQL
+
+Cuantos municipios tiene antioquia?
+
+		SELECT count(*) FROM kudosg.mgn_adm_mpio_politico
+		where dpto_ccdgo = '05'
+
+![municipios](/images/sql.png)
 
 
 
