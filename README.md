@@ -84,7 +84,11 @@ Ejemplo de uso en QGIS con WMTS
 ![cartogram](/images/mapbox_qgis4.png)
 
 
+### Personalizar estilos con Mapbox studio
 
+![cartogram](/images/mapbox_custom.png)
+
+![cartogram](/images/mapbox_custom2.png)
 
 
 
