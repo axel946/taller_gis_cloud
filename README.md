@@ -176,7 +176,7 @@ Ejemplo de la información contenida en el tweet:
 
 ![municipios](/images/carto_architecture.png)
 
-
+![municipios](/images/carto_how.png)
 
 
 
