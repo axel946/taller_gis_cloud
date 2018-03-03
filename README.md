@@ -30,7 +30,10 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 
 ### Postgis
 
-		PostGIS is an extension to the PostgreSQL object-relational database system which allows GIS (Geographic Information Systems) objects to be stored in the database. PostGIS includes support for GiST-based R-Tree spatial indexes, and functions for analysis and processing of GIS objects.
+		PostGIS is an extension to the PostgreSQL object-relational database system which allows
+		GIS (Geographic Information Systems) objects to be stored in the database. PostGIS
+		includes support for GiST-based R-Tree spatial indexes, and functions for analysis
+		and processing of GIS objects.
 
 Referencia de operaciones en postgis:
 http://www.postgis.org/docs/reference.html
