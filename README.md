@@ -56,7 +56,36 @@ Utilizar Estilo
 
 
 Ejemplo:
+
 https://api.mapbox.com/styles/v1/gkudos/cjeaqkalvk2i82slc4rrnjri8.html?fresh=true&title=true&access_token=pk.eyJ1IjoiZ2t1ZG9zIiwiYSI6IkJ6Snd0WVUifQ.KkZKDrLUGoAuDv8CfLg4xg#13.0/40.720538/-73.997072/0
+
+Ejemplo de uso con mapbox gl:
+
+https://bl.ocks.org/dersteppenwolf/cd1c72c482ed72cfcf8156ad65ef3e26
+
+
+Ejemplo de uso con leaflet:
+
+https://bl.ocks.org/dersteppenwolf/e87dccd027e28208ca955047b08b2537
+
+
+
+Ejemplo de uso en QGIS con WMTS
+
+
+![cartogram](/images/mapbox_qgis0.png)
+
+![cartogram](/images/mapbox_qgis1.png)
+
+![cartogram](/images/mapbox_qgis2.png)
+
+![cartogram](/images/mapbox_qgis3.png)
+
+![cartogram](/images/mapbox_qgis4.png)
+
+
+
+
 
 
 ## Spatial SQL
