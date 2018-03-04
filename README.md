@@ -72,6 +72,7 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Where can you afford to rent in California? http://www.latimes.com/projects/la-fi-california-rental-affordable-map/
 	* Strava’s fitness heatmaps are a 'potential catastrophe' https://www.engadget.com/2018/02/02/strava-s-fitness-heatmaps-are-a-potential-catastrophe/
 	* Mapped: the best places to live in England and Wales https://www.telegraph.co.uk/finance/economics/11041812/Mapped-the-best-places-to-live-in-England-and-Wales.html
+	* America's Wall. http://www.kpbs.org/news/2017/nov/13/americas-wall/#explore
 
 	
 
