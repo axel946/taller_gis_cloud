@@ -325,7 +325,7 @@ Objetivo: Crear un mapa de municipios clasificado por la cantidad de tweets
 
 * Cree  un nuevo mapa y adicione las capas de tweets y municipio
 * seleccione la capa de municipios.
-* Seleccione la opción de análisis :  "intersectar segunda capa"
+* Seleccione la opción de análisis :  "intersectar segunda capa" ( https://carto.com/learn/guides/analysis/intersect-second-layer/ )
 	* capa de intersección :  tweets
 	* medida: conteo
 * Simbolice los municipios como coropletas  a partir del conteo de tweets
