@@ -58,6 +58,16 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Video Tutorials »Integrate and Connect to Social Media https://en.support.wordpress.com/video-tutorials/connect-to-social-media/
 	* Carto embeds https://en.support.wordpress.com/carto-embeds/
 	* Video Publicar entradas en Wordpress https://en.support.wordpress.com/carto-embeds/
+	
+* Ejemplos de historias contadas con Mapas
+	* The Impact of Brooklyn's L Train Shutdown, in 4 Maps https://www.citylab.com/transportation/2016/07/the-impact-of-nycs-l-train-shutdown-in-4-maps/493115/
+	* The L Train Closure—what Data Can Tell Us https://carto.com/blog/looking-at-the-l/
+	* 12 Maps That Tell the Story of 2017 https://carto.com/blog/maps-tell-the-story-2017/
+	* Immigration. Le Centre-Bretagne à contresens http://www.letelegramme.fr/dataspot/immigration-le-centre-bretagne-a-contresens-20-04-2016-11037935.php#EuBizhJQ4bA6IPlj.99
+	* Anti-eviction Mapping Project and Carto Expose Realities of Gentrification and Evictions in San Francisco https://carto.com/blog/anti-eviction-mapping/ 
+	* Mapping City Data Shows Link Between Redlining and Foreclosures https://carto.com/blog/mapping-city-data-shows-link-between-redlining-and-foreclosures/
+
+	
 
 
 
