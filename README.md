@@ -394,6 +394,10 @@ https://gkudos.carto.com/u/kudosg/builder/2597eae1-1029-462d-80bd-ce3d3fba2538/e
 ![municipios](/images/filter_advanced.png)
 
 
+**Nota:**
+	* Agrupar puntos en polígonos (convex hull) https://carto.com/learn/guides/analysis/group-points-into-polygons/
+
+
 ### Simplificación de Geometrías
 
 ST_Simplify:  http://www.postgis.org/docs/ST_Simplify.html  
