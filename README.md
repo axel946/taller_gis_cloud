@@ -321,6 +321,8 @@ https://gkudos.carto.com/u/kudosg/builder/b4fd7e58-379a-4101-9cd9-bad1111c6fc4/e
 
 ### Ejercicio 5: Análisis espacial básico
 
+Objetivo: Crear un mapa de municipios clasificado por la cantidad de tweets
+
 * Cree  un nuevo mapa y adicione las capas de tweets y municipio
 * seleccione la capa de municipios.
 * Seleccione la opción de análisis :  "intersectar segunda capa"
@@ -330,8 +332,12 @@ https://gkudos.carto.com/u/kudosg/builder/b4fd7e58-379a-4101-9cd9-bad1111c6fc4/e
 * adicione los widgets que considere necesarios para enriquecer la visualización
 * resultado https://gkudos.carto.com/u/kudosg/builder/ecdf1d43-7d19-4c60-9b61-c20683818a00/embed
 
+![cartogram](/images/choro2.png)
+
 
 ### Ejercicio 6: Enriquecer los datos con Análisis espacial
+
+Objetivo: Adicionar atributos a los datos a partir de procesos de análisis espacial
 
 * Cree  un nuevo mapa y adicione la capas de departamentos
 * Adicione el análisis de tipo "filter point in polygons" utilizando como filtering layer los tweets
@@ -341,7 +347,7 @@ https://gkudos.carto.com/u/kudosg/builder/b4fd7e58-379a-4101-9cd9-bad1111c6fc4/e
 * pregunta: cuantos tweets hay en total entre antioquia y cundinarca
 * resultado https://gkudos.carto.com/u/kudosg/builder/13ae268b-4410-4396-bc0c-b31d473b9c55/embed
 
-
+![cartogram](/images/enrichment.png)
 
 
 ## Carto y Spatial SQL
