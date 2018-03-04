@@ -49,6 +49,14 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Carto Guides https://carto.com/learn/guides/
 	* Carto Tips https://carto.com/docs/tips-and-tricks/
 
+* Wordpress
+	* Tutorial paso a paso de wordpress https://learn.wordpress.com/
+	* Build a Business Website Tutorial https://en.support.wordpress.com/tutorials/business-website-tutorial/
+	* Video Tutorials »Get Started – Learn the Basics https://en.support.wordpress.com/video-tutorials/get-started/
+	* Video Tutorials »Customize Your Site https://en.support.wordpress.com/video-tutorials/customize-your-site/
+	* Video Tutorials »Add Content and Media https://en.support.wordpress.com/video-tutorials/add-content-and-media/ 
+	* Video Tutorials »Integrate and Connect to Social Media https://en.support.wordpress.com/video-tutorials/connect-to-social-media/
+
 
 
 
