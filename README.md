@@ -56,6 +56,7 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Video Tutorials »Customize Your Site https://en.support.wordpress.com/video-tutorials/customize-your-site/
 	* Video Tutorials »Add Content and Media https://en.support.wordpress.com/video-tutorials/add-content-and-media/ 
 	* Video Tutorials »Integrate and Connect to Social Media https://en.support.wordpress.com/video-tutorials/connect-to-social-media/
+	* Carto embeds https://en.support.wordpress.com/carto-embeds/
 
 
 
