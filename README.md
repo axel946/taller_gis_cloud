@@ -54,17 +54,17 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Build a Business Website Tutorial https://en.support.wordpress.com/tutorials/business-website-tutorial/
 	* Video Tutorials »Get Started – Learn the Basics https://en.support.wordpress.com/video-tutorials/get-started/
 	* Video Tutorials »Customize Your Site https://en.support.wordpress.com/video-tutorials/customize-your-site/
-	* Video Tutorials »Add Content and Media https://en.support.wordpress.com/video-tutorials/add-content-and-media/ 
+	* Video Tutorials »Add Content and Media https://en.support.wordpress.com/video-tutorials/add-content-and-media/
 	* Video Tutorials »Integrate and Connect to Social Media https://en.support.wordpress.com/video-tutorials/connect-to-social-media/
 	* Carto embeds https://en.support.wordpress.com/carto-embeds/
 	* Video Publicar entradas en Wordpress https://en.support.wordpress.com/carto-embeds/
-	
+
 * Ejemplos de historias contadas con Mapas
 	* The Impact of Brooklyn's L Train Shutdown, in 4 Maps https://www.citylab.com/transportation/2016/07/the-impact-of-nycs-l-train-shutdown-in-4-maps/493115/
 	* The L Train Closure—what Data Can Tell Us https://carto.com/blog/looking-at-the-l/
 	* 12 Maps That Tell the Story of 2017 https://carto.com/blog/maps-tell-the-story-2017/
 	* Immigration. Le Centre-Bretagne à contresens http://www.letelegramme.fr/dataspot/immigration-le-centre-bretagne-a-contresens-20-04-2016-11037935.php#EuBizhJQ4bA6IPlj.99
-	* Anti-eviction Mapping Project and Carto Expose Realities of Gentrification and Evictions in San Francisco https://carto.com/blog/anti-eviction-mapping/ 
+	* Anti-eviction Mapping Project and Carto Expose Realities of Gentrification and Evictions in San Francisco https://carto.com/blog/anti-eviction-mapping/
 	* Mapping City Data Shows Link Between Redlining and Foreclosures https://carto.com/blog/mapping-city-data-shows-link-between-redlining-and-foreclosures/
 	* Exploring real-time hurricane evacuation patterns https://blog.mapbox.com/exploring-real-time-hurricane-evacuation-patterns-d7a6199f77db
 	* Global Warming with a Flourish http://googlemapsmania.blogspot.com.co/2018/03/global-warming-with-flourish.html
@@ -74,7 +74,7 @@ El presente taller utiliza contenidos basados en recursos como los siguientes:
 	* Mapped: the best places to live in England and Wales https://www.telegraph.co.uk/finance/economics/11041812/Mapped-the-best-places-to-live-in-England-and-Wales.html
 	* America's Wall. http://www.kpbs.org/news/2017/nov/13/americas-wall/#explore
 
-	
+
 
 
 
@@ -304,6 +304,8 @@ https://gkudos.carto.com/u/kudosg/builder/b4fd7e58-379a-4101-9cd9-bad1111c6fc4/e
 * publique el mapa
 * resultado : https://gkudos.carto.com/u/kudosg/builder/63e02f53-fd37-43cd-a35a-74bcd00047d9/embed
 
+![cartogram](/images/density.png)
+
 ### Ejercicio 4: Mapa de coropletas (choropleth)
 
 * Cargue en carto el conjunto de datos stateData.geojson
@@ -313,6 +315,9 @@ https://gkudos.carto.com/u/kudosg/builder/b4fd7e58-379a-4101-9cd9-bad1111c6fc4/e
 * explore la opción "cartocss" y revise el código generado por la herramienta
 * publique el mapa
 * resultado: https://gkudos.carto.com/u/kudosg/builder/ae9352da-4ad4-4941-9273-d04bf52ddda5/embed
+
+![cartogram](/images/choro.png)
+
 
 ### Ejercicio 5: Análisis espacial básico
 
