@@ -340,7 +340,7 @@ Objetivo: Crear un mapa de municipios clasificado por la cantidad de tweets
 Objetivo: Adicionar atributos a los datos a partir de procesos de análisis espacial
 
 * Cree  un nuevo mapa y adicione la capas de departamentos
-* Adicione el análisis de tipo "filter point in polygons" utilizando como filtering layer los tweets
+* Adicione el análisis de tipo "filter point in polygons" (https://carto.com/learn/guides/analysis/filter-points-in-polygons/) utilizando como filtering layer los tweets
 * Adicione widget de categoría por el atributo source_dpto_cnmbr
 * Adicine widget para conteo de datos a través del atributo source_cartodb_id
 * publique el mapa
