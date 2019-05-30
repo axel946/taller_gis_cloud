@@ -1,10 +1,33 @@
 # Taller de publicación de mapas utilizando herramientas en la nube
 
-* Instructor: Juan Carlos Méndez
-* Fecha: 2018-03-03
-* Materia: Geoservicios y Geoportales
-* Maestría En Gestión De La Información Y Tecnologías Geoespaciales
-* Universidad Sergio Arboleda / IGAC - CIAF
+- [Taller de publicación de mapas utilizando herramientas en la nube](#taller-de-publicaci%C3%B3n-de-mapas-utilizando-herramientas-en-la-nube)
+	- [Instructor](#instructor)
+	- [Prerrequisitos](#prerrequisitos)
+	- [Fuentes de datos](#fuentes-de-datos)
+	- [Referencias](#referencias)
+	- [Mapbox](#mapbox)
+		- [Cartogram](#cartogram)
+		- [Personalizar estilos con Mapbox studio](#personalizar-estilos-con-mapbox-studio)
+		- [Mapa de coropletas (choropleth) con Mapbox studio](#mapa-de-coropletas-choropleth-con-mapbox-studio)
+		- [Otros Tutoriales](#otros-tutoriales)
+	- [Carto](#carto)
+		- [Ejercicio 1: Mapa Simple de tweets](#ejercicio-1-mapa-simple-de-tweets)
+		- [Ejercicio 2: Crear dashboard interactivo para el análisis de tweets](#ejercicio-2-crear-dashboard-interactivo-para-el-an%C3%A1lisis-de-tweets)
+		- [Ejercicio 3: Agregaciones / Densidad](#ejercicio-3-agregaciones--densidad)
+		- [Ejercicio 4: Mapa de coropletas (choropleth)](#ejercicio-4-mapa-de-coropletas-choropleth)
+		- [Ejercicio 5: Análisis espacial básico](#ejercicio-5-an%C3%A1lisis-espacial-b%C3%A1sico)
+		- [Ejercicio 6: Enriquecer los datos con Análisis espacial](#ejercicio-6-enriquecer-los-datos-con-an%C3%A1lisis-espacial)
+	- [Carto y Spatial SQL](#carto-y-spatial-sql)
+		- [Postgis](#postgis)
+		- [Consultas utilizando SQL](#consultas-utilizando-sql)
+		- [Simplificación de Geometrías](#simplificaci%C3%B3n-de-geometr%C3%ADas)
+	- [Tarea](#tarea)
+	- [Gracias](#gracias)
+
+
+## Instructor
+ 
+* Juan Carlos Méndez
 
 ## Prerrequisitos
 
@@ -21,7 +44,7 @@ Carpeta
 
 	/datos
 
-**Municipios y departamentos de Colombia**
+** Municipios y departamentos de Colombia**
 
 Fuente:  Geoportal Dane https://geoportal.dane.gov.co/v2/?page=elementoDescargaMGN
 
