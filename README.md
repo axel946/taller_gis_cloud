@@ -21,8 +21,7 @@
 		- [Postgis](#postgis)
 		- [Consultas utilizando SQL](#consultas-utilizando-sql)
 		- [Simplificación de Geometrías](#simplificaci%C3%B3n-de-geometr%C3%ADas)
-	- [Tarea](#tarea)
-	- [Gracias](#gracias)
+- [Gracias](#gracias)
 
 
 ## Instructor
@@ -448,8 +447,5 @@ Comparación de Tamaños:
 
 ![municipios](/images/municipios_comparacion.png)
 
-## Tarea
 
-Consultar foro
-
-## Gracias
+# Gracias
