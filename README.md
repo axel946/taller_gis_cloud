@@ -363,12 +363,12 @@ Objetivo: Crear un mapa de municipios clasificado por la cantidad de tweets
 Objetivo: Adicionar atributos a los datos a partir de procesos de análisis espacial
 
 * Cree  un nuevo mapa y adicione la capas de departamentos
-* Adicione el análisis de tipo "filter point in polygons" (https://carto.com/learn/guides/analysis/filter-points-in-polygons/) utilizando como filtering layer los tweets
-* Adicione widget de categoría por el atributo source_dpto_cnmbr
+* Adicione el análisis de tipo "Select Points in Polygons" (https://carto.com/help/building-maps/select-points-in-polygons/) utilizando como filtering layer los tweets
+* Adicione widget de categoría por el atributo _nombre_
 * Adicine widget para conteo de datos a través del atributo source_cartodb_id
 * publique el mapa
 * pregunta: cuantos tweets hay en total entre antioquia y cundinarca
-* resultado https://gkudos.carto.com/u/kudosg/builder/13ae268b-4410-4396-bc0c-b31d473b9c55/embed
+* resultado https://gkudos.carto.com/u/kudosg/builder/fb040332-80ec-4a91-8599-d08a69b07f8a/embed
 
 ![cartogram](/images/enrichment.png)
 
